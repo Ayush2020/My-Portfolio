@@ -41,7 +41,7 @@ const Hero = () => {
           
           <p className="text-xl sm:text-2xl lg:text-3xl text-foreground/70 mb-8 max-w-3xl mx-auto leading-relaxed">
             Full-Stack Developer crafting
-            <span className="text-primary font-semibold"> exceptional digital experiences</span> 
+            <span className="text-primary font-semibold"> exceptional digital experiences </span> 
             with modern technologies
           </p>
 
